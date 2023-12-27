@@ -1,16 +1,16 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-hao
+  name: theme-hao-jiang
   annotations:
     # Add supports for Halo App Store
     # https://halo.run/store/apps/app-MgZJX
-    "store.halo.run/app-id": "app-MgZJX"
+    # "store.halo.run/app-id": "app-MgZJX"
 spec:
   displayName: Hao
   author:
-    name: 程序员小航
-    website: https://liuzhihang.com
+    name: 江江好
+    website: https://www.jiangmuxin.com
   customTemplates:
     page:
       - name: 友情链接页面模版
